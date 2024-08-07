@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leio-hub
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Gsap
+- 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on I dont know yet
 - 📫 How to reach me
 - ⚡ Fun fact: I like drawing and anime
